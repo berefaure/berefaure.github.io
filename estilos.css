@@ -21,9 +21,9 @@
 h1 {
     color: black;
     text-align: center;
-    width: auto;
+    width: 25%;
     border-radius: 50px;
-    margin: 30px 570px;
+    margin: 50px auto;
     padding: 5px 25px;
     background-color: springgreen;
 }
@@ -70,10 +70,6 @@ a {
 /*  --- body --- */
 
 
-/* .colorparag {
-    color: black;
-    display: initial;
-} */
 
 .contenedor {
     display: flex;
