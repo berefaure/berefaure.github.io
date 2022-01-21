@@ -9,7 +9,7 @@
 
 /*  --- mediaQuery --- */
 
-@media only screen and (max-width: 700px) {
+@media only screen and (min-width: 700px) {
   h1 {
     /* font-size: 1em;
     width: 45% !important;
